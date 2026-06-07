@@ -366,8 +366,8 @@ npm start
 
 Backend Developer • Full Stack Developer
 
-- LinkedIn: your-linkedin
-- GitHub: your-github
+- LinkedIn: https://www.linkedin.com/in/aryan-yadav-27766121b
+- GitHub: https://github.com/clive-bixby
 
 ---
 
